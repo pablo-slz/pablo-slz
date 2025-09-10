@@ -24,3 +24,7 @@ me gusta mucho todo lo relacionado con tecnologia, me gusta ir al gimnasio, la n
 [![github](https://img.shields.io/badge/github-gray?logo=github&logoColor=white)](https://github.com/pablo-slz)
 
 
+### frase motivadora 
+
+
+**no te arrepientas de lo que haces, arrepientete de lo que no haces que nunca sabras que va a pasar you you**
